@@ -6,12 +6,12 @@
 
 ---
 
-- 🔭 Right now, I'm focusing on improving my skills in Sass, JavaScript and Vue.js.
-- 📖 I’m currently learning async JS and Vue.
+- 🔭 Right now, I'm focusing on improving my skills in Sass, JavaScript and React.js.
+- 📖 I’m currently learning JS, React and UX/UI design basics.
 - 🌼 I'm looking for my first commercial experience as junior front-end dev or intern.
-- 🎯 2020 Goals: Create front-end portfolio. Build my own projects and solve a lot of algorithmic challenges.
+- 🎯 2023 Goals: Create front-end portfolio with my personal projects. Learn TypeScript, React and UX/UI design.
 - ✏️ On a day-to-day basis I work as an architect.
-- 🎸 Fun fact: I love to play electric guitar, read self improvement books, travelling to new destination and eat good food :)
+- 🎸 Fun fact: I love to play electric guitar, read self improvement books and dance bachata :)
 
 ---
 
@@ -43,5 +43,5 @@
 
 [portfolio]: https://andriichemerys.github.io/front-end_portfolio/dist/index.html
 [facebook]: https://www.facebook.com/andrii.chemerys/
-[instagram]: https://www.instagram.com/andrii_chemerys/
+[instagram]: https://www.instagram.com/ari_chrs/
 [linkedin]: https://www.linkedin.com/in/andrii-chemerys-b95074151/
