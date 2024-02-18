@@ -1,4 +1,4 @@
-## Hi, I'm Andrii Chemerys - Front-End Developer 👋
+## Hi, I'm Andrzej Chemerys - Front-End Developer 👋
 
 ### I'm an aspiring front-end developer, striving to learn new technologies, positive, open minded and creative.
 
