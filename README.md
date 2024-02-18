@@ -9,7 +9,6 @@
 - 🔭 Right now, I'm focusing on improving my skills in Sass, JavaScript and React.js.
 - 📖 I’m currently learning JS, React and UX/UI design basics.
 - 🌼 I'm looking for my first commercial experience as junior front-end dev or intern.
-- 🎯 2023 Goals: Create front-end portfolio with my personal projects. Learn TypeScript, React and UX/UI design.
 - ✏️ On a day-to-day basis I work as an architect.
 - 🎸 Fun fact: I love to play electric guitar, read self improvement books and dance bachata :)
 
