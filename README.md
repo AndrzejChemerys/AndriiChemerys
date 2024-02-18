@@ -41,7 +41,7 @@
 
 ---
 
-[portfolio]: https://andriichemerys.github.io/front-end_portfolio/dist/index.html
+[portfolio]: https://andrzejchemerys.github.io/front-end_portfolio/dist/index.html
 [facebook]: https://www.facebook.com/andrii.chemerys/
 [instagram]: https://www.instagram.com/ari_chrs/
 [linkedin]: https://www.linkedin.com/in/andrii-chemerys-b95074151/
